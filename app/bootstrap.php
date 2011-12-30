@@ -1,10 +1,9 @@
 <?php
 
 /**
- * [!!] Note: Changes to your php configuration (through ini_set()) are an
- * overhead for each request to your application. For a slight performance
- * increase, place these settings in your php.ini configuration file, and remove
- * said lines.
+ * [!!] Note: Changes to your php configuration are an overhead for each request
+ * to your application. If possible, for a slight performance increase, place
+ * these settings in your php.ini configuration file, and remove said lines.
  */
 
 /**
