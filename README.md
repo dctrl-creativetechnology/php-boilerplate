@@ -19,7 +19,7 @@ You can download the latest version of the Boilerplate in either
 [zip](http://github.com/phpbp/php-boilerplate/zipball/master) or
 [tar](http://github.com/phpbp/php-boilerplate/tarball/master) formats.
 
-You can also clone the project with [Git]() by running
+You can also clone the project with [Git](http://git-scm.com) by running
 
     git clone git://github.com/phpbp/php-boilerplate.git
 
